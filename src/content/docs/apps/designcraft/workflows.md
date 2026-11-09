@@ -1,6 +1,6 @@
 ---
 title: Workflows
-description: Pages, threaded text, styles, pictures, colour, tables and export in DesignCraft.
+description: Pages, threaded text, styles, pictures, color, tables and export in DesignCraft.
 sidebar:
   order: 3
 ---
@@ -117,9 +117,9 @@ A placed picture is linked to its file on disk. **Window › Links** lists every
 - **Embed Link** stores a copy of the picture inside the document, so the link no longer matters.
 - **Go To Link** jumps to the picture on the page.
 
-## Work with colour
+## Work with color
 
-**Window › Color › Swatches** lists the document's named colours. Add a swatch once, then use it everywhere, so a change to the swatch changes every object that uses it. Swatches can be RGB or CMYK colours, tints and gradients.
+**Window › Color › Swatches** lists the document's named colors. Add a swatch once, then use it everywhere, so a change to the swatch changes every object that uses it. Swatches can be RGB or CMYK colors, tints and gradients.
 
 ![A page titled Color, Ink & Paper on a plum background, with four swatch circles below, labelled Ink Plum, Sunset, C=100 M=0 Y=0 K=0 and Paper Warm](/assets/uploads/designcraft/swatches.webp)
 
